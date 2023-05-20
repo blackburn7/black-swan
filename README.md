@@ -1,0 +1,2 @@
+# black-swan
+trading algorithm
